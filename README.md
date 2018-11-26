@@ -1,4 +1,4 @@
-### 12ωρο σεμινάριο "Σεμινάριο HTML & CSS" από [Invelop Skills](https://invelopskills.gr/)
+### 12ωρο σεμινάριο "HTML & CSS" από [Invelop Skills](https://invelopskills.gr/)
 
 #### Εισηγητής: Γιώργος Μαρτσούκος
 
