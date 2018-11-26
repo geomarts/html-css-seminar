@@ -2,4 +2,4 @@
 
 #### Εισηγητής: Γιώργος Μαρτσούκος
 
-[Demo](https://geomarts.github.io/html-css-seminar/work.html)
+[Demo](https://geomarts.github.io/html-css-seminar)
