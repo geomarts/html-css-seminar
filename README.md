@@ -3,3 +3,5 @@
 #### Εισηγητής: Γιώργος Μαρτσούκος
 
 [Demo Project](https://geomarts.github.io/html-css-seminar)
+
+[Παρουσίαση](https://codepen.io/georgemarts/full/pQvbqp/)
