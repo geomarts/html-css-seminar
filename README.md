@@ -1,4 +1,4 @@
-### Σεμινάριο "HTML & CSS" από [Invelop Skills](https://invelopskills.gr/)
+### Σεμινάριο "HTML & CSS" από [Invelop Skills](https://invelopskills.gr/seminaria/web-development/html-css-gm/)
 
 #### Εισηγητής: [Γιώργος Μαρτσούκος](http://georgemartsoukos.com/)
 
